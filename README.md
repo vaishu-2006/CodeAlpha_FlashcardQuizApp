@@ -99,7 +99,6 @@ src/
 └── main.tsx                # Entry point
 ```
 
-## Local Storage Keys
+## 🎥 Demo Video
 
-- `flashcards_v1` - Stores the array of flashcard objects
-- `flashcards_theme_v1` - Stores the theme preference ('light' or 'dark')
+Demo Video: [https://drive.google.com/file/d/1jw9X7Pc2BuqS--1CHlTt_6mh_KK507BR/view?usp=sharing]
